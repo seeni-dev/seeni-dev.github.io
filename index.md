@@ -6,7 +6,7 @@
 
 ---
 
-Hi, I'm Seeni. I'm a **Data Platform Engineer** specializing in distributed systems and building large-scale data infrastructure using Scala, Spark, ClickHouse, Kafka, and Kubernetes. 
+Hi, I'm Seeni. I'm a **Data Platform Engineer** specializing in distributed systems and building large-scale data infrastructure using Scala, Spark, ClickHouse, Kafka, Kubernetes, and databases (SQL/NoSQL). 
 
 Welcome to my personal site!
 
